@@ -1,0 +1,17 @@
+/Users/mrs.buendia/Desktop/API Project Exercise/API Project Exercise/bin/Debug/net7.0/API Project Exercise
+/Users/mrs.buendia/Desktop/API Project Exercise/API Project Exercise/bin/Debug/net7.0/API Project Exercise.deps.json
+/Users/mrs.buendia/Desktop/API Project Exercise/API Project Exercise/bin/Debug/net7.0/API Project Exercise.runtimeconfig.json
+/Users/mrs.buendia/Desktop/API Project Exercise/API Project Exercise/bin/Debug/net7.0/API Project Exercise.dll
+/Users/mrs.buendia/Desktop/API Project Exercise/API Project Exercise/bin/Debug/net7.0/API Project Exercise.pdb
+/Users/mrs.buendia/Desktop/API Project Exercise/API Project Exercise/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/mrs.buendia/Desktop/API Project Exercise/API Project Exercise/obj/Debug/net7.0/API Project Exercise.csproj.AssemblyReference.cache
+/Users/mrs.buendia/Desktop/API Project Exercise/API Project Exercise/obj/Debug/net7.0/API Project Exercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mrs.buendia/Desktop/API Project Exercise/API Project Exercise/obj/Debug/net7.0/API Project Exercise.AssemblyInfoInputs.cache
+/Users/mrs.buendia/Desktop/API Project Exercise/API Project Exercise/obj/Debug/net7.0/API Project Exercise.AssemblyInfo.cs
+/Users/mrs.buendia/Desktop/API Project Exercise/API Project Exercise/obj/Debug/net7.0/API Project Exercise.csproj.CoreCompileInputs.cache
+/Users/mrs.buendia/Desktop/API Project Exercise/API Project Exercise/obj/Debug/net7.0/API Project Exercise.csproj.CopyComplete
+/Users/mrs.buendia/Desktop/API Project Exercise/API Project Exercise/obj/Debug/net7.0/API Project Exercise.dll
+/Users/mrs.buendia/Desktop/API Project Exercise/API Project Exercise/obj/Debug/net7.0/refint/API Project Exercise.dll
+/Users/mrs.buendia/Desktop/API Project Exercise/API Project Exercise/obj/Debug/net7.0/API Project Exercise.pdb
+/Users/mrs.buendia/Desktop/API Project Exercise/API Project Exercise/obj/Debug/net7.0/API Project Exercise.genruntimeconfig.cache
+/Users/mrs.buendia/Desktop/API Project Exercise/API Project Exercise/obj/Debug/net7.0/ref/API Project Exercise.dll
